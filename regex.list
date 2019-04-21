@@ -1,6 +1,6 @@
-||youtube.com/*_204?$image
-||doubleclick.net^
-||google.com/pagead/
+youtube.com/*_204?$image
+doubleclick.net^
+google.com/pagead/
 /pagead/lvz?
 ##.ytp-ad-progress-list
 ##.ytd-search-pyv-renderer
@@ -9,10 +9,10 @@
 ###player-ads
 ###pla-shelf
 ###merch-shelf
-||youtube.com/pagead/
-||youtube.com/api/stats/ads?
-||youtube.com/api/stats/qoe?
-||googlesyndication.com^
+youtube.com/pagead/
+youtube.com/api/stats/ads?
+youtube.com/api/stats/qoe?
+googlesyndication.com^
 /generate_204$image
-||youtube.com/*_204?$other
+youtube.com/*_204?$other
 
