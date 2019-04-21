@@ -1,0 +1,14 @@
+youtube.com##.ytp-ad-progress-list		
+youtube.com##.ytp-ad-progress	
+youtube.com##.ytd-search-pyv-renderer	
+youtube.com##.ytd-merch-shelf-renderer	
+youtube.com##.video-ads		
+youtube.com###player-ads		
+youtube.com###pla-shelf		
+youtube.com###merch-shelf	
+||doubleclick.net^
+/pagead/lvz?
+||youtube.com/get_midroll_
+/generate_204$image
+||youtube.com/*_204?$image
+||youtube.com/api/stats/qoe?
