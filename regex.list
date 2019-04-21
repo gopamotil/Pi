@@ -3,9 +3,7 @@
 ||google.com/pagead/
 /pagead/lvz?
 ||youtube.com/pagead/
-||youtube.com/api/stats/ads?
 ||youtube.com/api/stats/qoe?
-=adunit&
 ||googlesyndication.com^
 /generate_204$image
 ||youtube.com/*_204?$other
